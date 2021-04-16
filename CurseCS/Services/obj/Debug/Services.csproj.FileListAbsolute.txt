@@ -1,0 +1,38 @@
+D:\Faculta\An 2\MPP\CurseCS\Services\bin\Debug\Services.dll.config
+D:\Faculta\An 2\MPP\CurseCS\Services\bin\Debug\Services.dll
+D:\Faculta\An 2\MPP\CurseCS\Services\bin\Debug\Services.pdb
+D:\Faculta\An 2\MPP\CurseCS\Services\bin\Debug\EntityFramework.dll
+D:\Faculta\An 2\MPP\CurseCS\Services\bin\Debug\EntityFramework.SqlServer.dll
+D:\Faculta\An 2\MPP\CurseCS\Services\bin\Debug\Model.dll
+D:\Faculta\An 2\MPP\CurseCS\Services\bin\Debug\System.Data.SQLite.dll
+D:\Faculta\An 2\MPP\CurseCS\Services\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Faculta\An 2\MPP\CurseCS\Services\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Faculta\An 2\MPP\CurseCS\Services\bin\Debug\Model.pdb
+D:\Faculta\An 2\MPP\CurseCS\Services\bin\Debug\Model.dll.config
+D:\Faculta\An 2\MPP\CurseCS\Services\bin\Debug\EntityFramework.xml
+D:\Faculta\An 2\MPP\CurseCS\Services\bin\Debug\EntityFramework.SqlServer.xml
+D:\Faculta\An 2\MPP\CurseCS\Services\bin\Debug\System.Data.SQLite.xml
+D:\Faculta\An 2\MPP\CurseCS\Services\obj\Debug\Services.csprojAssemblyReference.cache
+D:\Faculta\An 2\MPP\CurseCS\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+D:\Faculta\An 2\MPP\CurseCS\Services\obj\Debug\Services.csproj.CopyComplete
+D:\Faculta\An 2\MPP\CurseCS\Services\obj\Debug\Services.dll
+D:\Faculta\An 2\MPP\CurseCS\Services\obj\Debug\Services.pdb
+C:\Users\junki\OneDrive\Desktop\CurseCS\Services\bin\Debug\Services.dll.config
+C:\Users\junki\OneDrive\Desktop\CurseCS\Services\bin\Debug\Services.dll
+C:\Users\junki\OneDrive\Desktop\CurseCS\Services\bin\Debug\Services.pdb
+C:\Users\junki\OneDrive\Desktop\CurseCS\Services\bin\Debug\EntityFramework.dll
+C:\Users\junki\OneDrive\Desktop\CurseCS\Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\junki\OneDrive\Desktop\CurseCS\Services\bin\Debug\Model.dll
+C:\Users\junki\OneDrive\Desktop\CurseCS\Services\bin\Debug\System.Data.SQLite.dll
+C:\Users\junki\OneDrive\Desktop\CurseCS\Services\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\junki\OneDrive\Desktop\CurseCS\Services\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\junki\OneDrive\Desktop\CurseCS\Services\bin\Debug\Model.pdb
+C:\Users\junki\OneDrive\Desktop\CurseCS\Services\bin\Debug\Model.dll.config
+C:\Users\junki\OneDrive\Desktop\CurseCS\Services\bin\Debug\EntityFramework.xml
+C:\Users\junki\OneDrive\Desktop\CurseCS\Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\junki\OneDrive\Desktop\CurseCS\Services\bin\Debug\System.Data.SQLite.xml
+C:\Users\junki\OneDrive\Desktop\CurseCS\Services\obj\Debug\Services.csprojAssemblyReference.cache
+C:\Users\junki\OneDrive\Desktop\CurseCS\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+C:\Users\junki\OneDrive\Desktop\CurseCS\Services\obj\Debug\Services.csproj.CopyComplete
+C:\Users\junki\OneDrive\Desktop\CurseCS\Services\obj\Debug\Services.dll
+C:\Users\junki\OneDrive\Desktop\CurseCS\Services\obj\Debug\Services.pdb

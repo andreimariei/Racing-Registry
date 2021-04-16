@@ -1,0 +1,67 @@
+D:\Faculta\An 2\MPP\CurseCS\Client\bin\Debug\Client.exe.config
+D:\Faculta\An 2\MPP\CurseCS\Client\bin\Debug\Client.exe
+D:\Faculta\An 2\MPP\CurseCS\Client\bin\Debug\Client.pdb
+D:\Faculta\An 2\MPP\CurseCS\Client\bin\Debug\EntityFramework.dll
+D:\Faculta\An 2\MPP\CurseCS\Client\bin\Debug\EntityFramework.SqlServer.dll
+D:\Faculta\An 2\MPP\CurseCS\Client\bin\Debug\Model.dll
+D:\Faculta\An 2\MPP\CurseCS\Client\bin\Debug\Networking.dll
+D:\Faculta\An 2\MPP\CurseCS\Client\bin\Debug\Persistance.dll
+D:\Faculta\An 2\MPP\CurseCS\Client\bin\Debug\Services.dll
+D:\Faculta\An 2\MPP\CurseCS\Client\bin\Debug\System.Data.SQLite.dll
+D:\Faculta\An 2\MPP\CurseCS\Client\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Faculta\An 2\MPP\CurseCS\Client\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Faculta\An 2\MPP\CurseCS\Client\bin\Debug\Model.pdb
+D:\Faculta\An 2\MPP\CurseCS\Client\bin\Debug\Model.dll.config
+D:\Faculta\An 2\MPP\CurseCS\Client\bin\Debug\Networking.pdb
+D:\Faculta\An 2\MPP\CurseCS\Client\bin\Debug\Networking.dll.config
+D:\Faculta\An 2\MPP\CurseCS\Client\bin\Debug\Persistance.pdb
+D:\Faculta\An 2\MPP\CurseCS\Client\bin\Debug\Persistance.dll.config
+D:\Faculta\An 2\MPP\CurseCS\Client\bin\Debug\Services.pdb
+D:\Faculta\An 2\MPP\CurseCS\Client\bin\Debug\Services.dll.config
+D:\Faculta\An 2\MPP\CurseCS\Client\bin\Debug\EntityFramework.xml
+D:\Faculta\An 2\MPP\CurseCS\Client\bin\Debug\EntityFramework.SqlServer.xml
+D:\Faculta\An 2\MPP\CurseCS\Client\bin\Debug\System.Data.SQLite.xml
+D:\Faculta\An 2\MPP\CurseCS\Client\obj\Debug\Client.csprojAssemblyReference.cache
+D:\Faculta\An 2\MPP\CurseCS\Client\obj\Debug\curse.Client.Form1.resources
+D:\Faculta\An 2\MPP\CurseCS\Client\obj\Debug\curse.Client.MainMenu.resources
+D:\Faculta\An 2\MPP\CurseCS\Client\obj\Debug\Client.Properties.Resources.resources
+D:\Faculta\An 2\MPP\CurseCS\Client\obj\Debug\Client.csproj.GenerateResource.cache
+D:\Faculta\An 2\MPP\CurseCS\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\Faculta\An 2\MPP\CurseCS\Client\obj\Debug\Client.csproj.CopyComplete
+D:\Faculta\An 2\MPP\CurseCS\Client\obj\Debug\Client.exe
+D:\Faculta\An 2\MPP\CurseCS\Client\obj\Debug\Client.pdb
+C:\Users\junki\OneDrive\Desktop\CurseCS\Client\bin\Debug\Client.exe.config
+C:\Users\junki\OneDrive\Desktop\CurseCS\Client\bin\Debug\Client.exe
+C:\Users\junki\OneDrive\Desktop\CurseCS\Client\bin\Debug\Client.pdb
+C:\Users\junki\OneDrive\Desktop\CurseCS\Client\bin\Debug\EntityFramework.dll
+C:\Users\junki\OneDrive\Desktop\CurseCS\Client\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\junki\OneDrive\Desktop\CurseCS\Client\bin\Debug\Model.dll
+C:\Users\junki\OneDrive\Desktop\CurseCS\Client\bin\Debug\Networking.dll
+C:\Users\junki\OneDrive\Desktop\CurseCS\Client\bin\Debug\Persistance.dll
+C:\Users\junki\OneDrive\Desktop\CurseCS\Client\bin\Debug\Services.dll
+C:\Users\junki\OneDrive\Desktop\CurseCS\Client\bin\Debug\System.Data.SQLite.dll
+C:\Users\junki\OneDrive\Desktop\CurseCS\Client\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\junki\OneDrive\Desktop\CurseCS\Client\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\junki\OneDrive\Desktop\CurseCS\Client\bin\Debug\Model.pdb
+C:\Users\junki\OneDrive\Desktop\CurseCS\Client\bin\Debug\Model.dll.config
+C:\Users\junki\OneDrive\Desktop\CurseCS\Client\bin\Debug\Networking.pdb
+C:\Users\junki\OneDrive\Desktop\CurseCS\Client\bin\Debug\Networking.dll.config
+C:\Users\junki\OneDrive\Desktop\CurseCS\Client\bin\Debug\Persistance.pdb
+C:\Users\junki\OneDrive\Desktop\CurseCS\Client\bin\Debug\Persistance.dll.config
+C:\Users\junki\OneDrive\Desktop\CurseCS\Client\bin\Debug\Services.pdb
+C:\Users\junki\OneDrive\Desktop\CurseCS\Client\bin\Debug\Services.dll.config
+C:\Users\junki\OneDrive\Desktop\CurseCS\Client\bin\Debug\EntityFramework.xml
+C:\Users\junki\OneDrive\Desktop\CurseCS\Client\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\junki\OneDrive\Desktop\CurseCS\Client\bin\Debug\System.Data.SQLite.xml
+C:\Users\junki\OneDrive\Desktop\CurseCS\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\junki\OneDrive\Desktop\CurseCS\Client\obj\Debug\curse.Client.Form1.resources
+C:\Users\junki\OneDrive\Desktop\CurseCS\Client\obj\Debug\curse.Client.MainMenu.resources
+C:\Users\junki\OneDrive\Desktop\CurseCS\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\junki\OneDrive\Desktop\CurseCS\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\junki\OneDrive\Desktop\CurseCS\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\junki\OneDrive\Desktop\CurseCS\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\junki\OneDrive\Desktop\CurseCS\Client\obj\Debug\Client.exe
+C:\Users\junki\OneDrive\Desktop\CurseCS\Client\obj\Debug\Client.pdb
+C:\Users\junki\OneDrive\Desktop\CurseCS\Client\bin\Debug\Server.exe
+C:\Users\junki\OneDrive\Desktop\CurseCS\Client\bin\Debug\Server.pdb
+C:\Users\junki\OneDrive\Desktop\CurseCS\Client\bin\Debug\Server.exe.config

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:util="http://www.springframework.org/schema/util"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context.xsd http://www.springframework.org/schema/util http://www.springframework.org/schema/util/spring-util.xsd">
+
+
+
+    <util:properties location="classpath:flightServer.properties" id="jdbcProps"/>
+    <bean id="angajatRepo" class="Repository.RepoDBAngajat">
+        <constructor-arg ref="jdbcProps"/>
+    </bean>
+    <bean id="pilotRepo" class="Repository.RepoDBPilot">
+        <constructor-arg ref="jdbcProps"/>
+    </bean>
+    <bean id="cursaRepo" class="Repository.RepoDBCursa">
+        <constructor-arg ref="jdbcProps" index="0"/>
+    </bean>
+    <bean id="inscriereRepo" class="Repository.RepoDBInscriere">
+        <constructor-arg ref="jdbcProps" index="0"/>
+    </bean>
+
+    <bean id="cursaService" class="Server.CurseServerImpl">
+        <constructor-arg ref="angajatRepo" index="0"/>
+        <constructor-arg ref="cursaRepo" index="1"/>
+        <constructor-arg ref="inscriereRepo" index="2"/>
+        <constructor-arg ref="pilotRepo" index="3"/>
+    </bean>
+
+    <bean class="org.springframework.remoting.rmi.RmiServiceExporter">
+
+        <property name="serviceName" value="CursaService"/>
+        <property name="service" ref="cursaService"/>
+        <property name="serviceInterface" value="Services.ICursaService"/>
+        <property name="registryPort" value="1099"/>
+    </bean>
+
+
+
+</beans>

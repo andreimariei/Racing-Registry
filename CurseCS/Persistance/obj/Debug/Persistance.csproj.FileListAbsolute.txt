@@ -1,0 +1,38 @@
+D:\Faculta\An 2\MPP\CurseCS\Persistance\obj\Debug\Persistance.csprojAssemblyReference.cache
+D:\Faculta\An 2\MPP\CurseCS\Persistance\obj\Debug\Persistance.csproj.CoreCompileInputs.cache
+D:\Faculta\An 2\MPP\CurseCS\Persistance\bin\Debug\Persistance.dll.config
+D:\Faculta\An 2\MPP\CurseCS\Persistance\bin\Debug\Persistance.dll
+D:\Faculta\An 2\MPP\CurseCS\Persistance\bin\Debug\Persistance.pdb
+D:\Faculta\An 2\MPP\CurseCS\Persistance\bin\Debug\EntityFramework.dll
+D:\Faculta\An 2\MPP\CurseCS\Persistance\bin\Debug\EntityFramework.SqlServer.dll
+D:\Faculta\An 2\MPP\CurseCS\Persistance\bin\Debug\Model.dll
+D:\Faculta\An 2\MPP\CurseCS\Persistance\bin\Debug\System.Data.SQLite.dll
+D:\Faculta\An 2\MPP\CurseCS\Persistance\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Faculta\An 2\MPP\CurseCS\Persistance\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Faculta\An 2\MPP\CurseCS\Persistance\bin\Debug\Model.pdb
+D:\Faculta\An 2\MPP\CurseCS\Persistance\bin\Debug\Model.dll.config
+D:\Faculta\An 2\MPP\CurseCS\Persistance\bin\Debug\EntityFramework.xml
+D:\Faculta\An 2\MPP\CurseCS\Persistance\bin\Debug\EntityFramework.SqlServer.xml
+D:\Faculta\An 2\MPP\CurseCS\Persistance\bin\Debug\System.Data.SQLite.xml
+D:\Faculta\An 2\MPP\CurseCS\Persistance\obj\Debug\Persistance.csproj.CopyComplete
+D:\Faculta\An 2\MPP\CurseCS\Persistance\obj\Debug\Persistance.dll
+D:\Faculta\An 2\MPP\CurseCS\Persistance\obj\Debug\Persistance.pdb
+C:\Users\junki\OneDrive\Desktop\CurseCS\Persistance\bin\Debug\Persistance.dll.config
+C:\Users\junki\OneDrive\Desktop\CurseCS\Persistance\bin\Debug\Persistance.dll
+C:\Users\junki\OneDrive\Desktop\CurseCS\Persistance\bin\Debug\Persistance.pdb
+C:\Users\junki\OneDrive\Desktop\CurseCS\Persistance\bin\Debug\EntityFramework.dll
+C:\Users\junki\OneDrive\Desktop\CurseCS\Persistance\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\junki\OneDrive\Desktop\CurseCS\Persistance\bin\Debug\Model.dll
+C:\Users\junki\OneDrive\Desktop\CurseCS\Persistance\bin\Debug\System.Data.SQLite.dll
+C:\Users\junki\OneDrive\Desktop\CurseCS\Persistance\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\junki\OneDrive\Desktop\CurseCS\Persistance\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\junki\OneDrive\Desktop\CurseCS\Persistance\bin\Debug\Model.pdb
+C:\Users\junki\OneDrive\Desktop\CurseCS\Persistance\bin\Debug\Model.dll.config
+C:\Users\junki\OneDrive\Desktop\CurseCS\Persistance\bin\Debug\EntityFramework.xml
+C:\Users\junki\OneDrive\Desktop\CurseCS\Persistance\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\junki\OneDrive\Desktop\CurseCS\Persistance\bin\Debug\System.Data.SQLite.xml
+C:\Users\junki\OneDrive\Desktop\CurseCS\Persistance\obj\Debug\Persistance.csprojAssemblyReference.cache
+C:\Users\junki\OneDrive\Desktop\CurseCS\Persistance\obj\Debug\Persistance.csproj.CoreCompileInputs.cache
+C:\Users\junki\OneDrive\Desktop\CurseCS\Persistance\obj\Debug\Persistance.csproj.CopyComplete
+C:\Users\junki\OneDrive\Desktop\CurseCS\Persistance\obj\Debug\Persistance.dll
+C:\Users\junki\OneDrive\Desktop\CurseCS\Persistance\obj\Debug\Persistance.pdb

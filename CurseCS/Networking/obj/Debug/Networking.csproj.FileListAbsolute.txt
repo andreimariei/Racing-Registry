@@ -1,0 +1,44 @@
+D:\Faculta\An 2\MPP\CurseCS\Networking\obj\Debug\Networking.csprojAssemblyReference.cache
+D:\Faculta\An 2\MPP\CurseCS\Networking\obj\Debug\Networking.csproj.CoreCompileInputs.cache
+D:\Faculta\An 2\MPP\CurseCS\Networking\bin\Debug\Networking.dll.config
+D:\Faculta\An 2\MPP\CurseCS\Networking\bin\Debug\Networking.dll
+D:\Faculta\An 2\MPP\CurseCS\Networking\bin\Debug\Networking.pdb
+D:\Faculta\An 2\MPP\CurseCS\Networking\bin\Debug\EntityFramework.dll
+D:\Faculta\An 2\MPP\CurseCS\Networking\bin\Debug\EntityFramework.SqlServer.dll
+D:\Faculta\An 2\MPP\CurseCS\Networking\bin\Debug\Model.dll
+D:\Faculta\An 2\MPP\CurseCS\Networking\bin\Debug\Services.dll
+D:\Faculta\An 2\MPP\CurseCS\Networking\bin\Debug\System.Data.SQLite.dll
+D:\Faculta\An 2\MPP\CurseCS\Networking\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Faculta\An 2\MPP\CurseCS\Networking\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Faculta\An 2\MPP\CurseCS\Networking\bin\Debug\Model.pdb
+D:\Faculta\An 2\MPP\CurseCS\Networking\bin\Debug\Model.dll.config
+D:\Faculta\An 2\MPP\CurseCS\Networking\bin\Debug\Services.pdb
+D:\Faculta\An 2\MPP\CurseCS\Networking\bin\Debug\Services.dll.config
+D:\Faculta\An 2\MPP\CurseCS\Networking\bin\Debug\EntityFramework.xml
+D:\Faculta\An 2\MPP\CurseCS\Networking\bin\Debug\EntityFramework.SqlServer.xml
+D:\Faculta\An 2\MPP\CurseCS\Networking\bin\Debug\System.Data.SQLite.xml
+D:\Faculta\An 2\MPP\CurseCS\Networking\obj\Debug\Networking.csproj.CopyComplete
+D:\Faculta\An 2\MPP\CurseCS\Networking\obj\Debug\Networking.dll
+D:\Faculta\An 2\MPP\CurseCS\Networking\obj\Debug\Networking.pdb
+C:\Users\junki\OneDrive\Desktop\CurseCS\Networking\obj\Debug\Networking.csprojAssemblyReference.cache
+C:\Users\junki\OneDrive\Desktop\CurseCS\Networking\obj\Debug\Networking.csproj.CoreCompileInputs.cache
+C:\Users\junki\OneDrive\Desktop\CurseCS\Networking\obj\Debug\Networking.dll
+C:\Users\junki\OneDrive\Desktop\CurseCS\Networking\obj\Debug\Networking.pdb
+C:\Users\junki\OneDrive\Desktop\CurseCS\Networking\bin\Debug\Networking.dll.config
+C:\Users\junki\OneDrive\Desktop\CurseCS\Networking\bin\Debug\Networking.dll
+C:\Users\junki\OneDrive\Desktop\CurseCS\Networking\bin\Debug\Networking.pdb
+C:\Users\junki\OneDrive\Desktop\CurseCS\Networking\bin\Debug\EntityFramework.dll
+C:\Users\junki\OneDrive\Desktop\CurseCS\Networking\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\junki\OneDrive\Desktop\CurseCS\Networking\bin\Debug\Model.dll
+C:\Users\junki\OneDrive\Desktop\CurseCS\Networking\bin\Debug\Services.dll
+C:\Users\junki\OneDrive\Desktop\CurseCS\Networking\bin\Debug\System.Data.SQLite.dll
+C:\Users\junki\OneDrive\Desktop\CurseCS\Networking\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\junki\OneDrive\Desktop\CurseCS\Networking\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\junki\OneDrive\Desktop\CurseCS\Networking\bin\Debug\Model.pdb
+C:\Users\junki\OneDrive\Desktop\CurseCS\Networking\bin\Debug\Model.dll.config
+C:\Users\junki\OneDrive\Desktop\CurseCS\Networking\bin\Debug\Services.pdb
+C:\Users\junki\OneDrive\Desktop\CurseCS\Networking\bin\Debug\Services.dll.config
+C:\Users\junki\OneDrive\Desktop\CurseCS\Networking\bin\Debug\EntityFramework.xml
+C:\Users\junki\OneDrive\Desktop\CurseCS\Networking\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\junki\OneDrive\Desktop\CurseCS\Networking\bin\Debug\System.Data.SQLite.xml
+C:\Users\junki\OneDrive\Desktop\CurseCS\Networking\obj\Debug\Networking.csproj.CopyComplete

@@ -1,0 +1,8 @@
+rootProject.name = 'Curse'
+include 'ClientProject'
+include 'ServerProject'
+include 'DomainProject'
+include 'NetworkingProject'
+include 'RepositoryProject'
+include 'ServicesProject'
+

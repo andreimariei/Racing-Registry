@@ -1,0 +1,4 @@
+D:\Faculta\An 2\MPP\CurseCS\CurseCS\obj\Debug\CurseCS.csprojAssemblyReference.cache
+D:\Faculta\An 2\MPP\CurseCS\CurseCS\obj\Debug\CurseCS.Properties.Resources.resources
+D:\Faculta\An 2\MPP\CurseCS\CurseCS\obj\Debug\CurseCS.csproj.GenerateResource.cache
+D:\Faculta\An 2\MPP\CurseCS\CurseCS\obj\Debug\CurseCS.csproj.CoreCompileInputs.cache

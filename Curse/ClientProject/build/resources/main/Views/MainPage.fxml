@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane prefHeight="432.0" prefWidth="890.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Client.GUI.MainPageControl">
+   <children>
+      <Button layoutX="29.0" layoutY="28.0" mnemonicParsing="false" onMouseClicked="#ArataParticipanti" text="Arata Participanti" />
+      <TableView fx:id="PilotTable" layoutX="29.0" layoutY="89.0" prefHeight="241.0" prefWidth="328.0">
+        <columns>
+          <TableColumn fx:id="IDPilot" prefWidth="75.0" text="ID" />
+          <TableColumn fx:id="NumePilot" prefWidth="113.0" text="Nume" />
+            <TableColumn fx:id="NumeEchipa" prefWidth="139.0" text="NumeEchipa" />
+        </columns>
+      </TableView>
+      <TableView fx:id="CurseTable" layoutX="548.0" layoutY="89.0" prefHeight="241.0" prefWidth="328.0">
+         <columns>
+            <TableColumn fx:id="IDCursa" prefWidth="153.0" text="ID" />
+            <TableColumn fx:id="Capacitate" prefWidth="171.0" text="Capacitate" />
+            <TableColumn minWidth="0.0" prefWidth="3.0" />
+         </columns>
+      </TableView>
+      <TextField fx:id="NumePilotText" layoutX="371.0" layoutY="130.0" />
+      <TextField fx:id="NumeEchipaText" layoutX="371.0" layoutY="197.0" />
+      <TextField fx:id="CapacitateText" layoutX="371.0" layoutY="270.0" />
+      <Button layoutX="413.0" layoutY="359.0" mnemonicParsing="false" onMouseClicked="#InscrieParticipant" text="Inscriere" />
+      <Button layoutX="798.0" layoutY="41.0" mnemonicParsing="false" onMouseClicked="#ArataCurse" text="Arata Curse" />
+      <Label layoutX="371.0" layoutY="113.0" text="Nume Pilot" />
+      <Label layoutX="371.0" layoutY="180.0" text="Nume Echipa" />
+      <Label layoutX="373.0" layoutY="253.0" text="Capacitate" />
+      <TextField fx:id="IdPilot" layoutX="368.0" layoutY="89.0" />
+      <Label layoutX="368.0" layoutY="66.0" text="Id" />
+   </children>
+</AnchorPane>

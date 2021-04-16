@@ -1,0 +1,37 @@
+plugins {
+    id 'java'
+    id 'application'
+    id 'org.openjfx.javafxplugin' version '0.0.8'
+}
+
+group 'org.example'
+version '1.0-SNAPSHOT'
+
+mainClassName = 'Client.ClientMain'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+
+    compile group: 'org.apache.logging.log4j', name: 'log4j-api', version: '2.10.0'
+    compile group: 'org.apache.logging.log4j', name: 'log4j-core', version: '2.10.0'
+    compile 'org.springframework:spring-context:5.0.4.RELEASE'
+    compile project (':DomainProject')
+    compile project (':ServicesProject')
+    compile project (':NetworkingProject')
+
+}
+
+jar{
+    manifest{
+        attributes('Main-Class':'Client.ClientMain')
+    }
+}
+
+javafx {
+    version = "13"
+    modules = [ 'javafx.controls', 'javafx.fxml' ]
+}

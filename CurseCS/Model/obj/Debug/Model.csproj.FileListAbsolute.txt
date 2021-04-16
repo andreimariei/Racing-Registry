@@ -1,0 +1,32 @@
+D:\Faculta\An 2\MPP\CurseCS\Model\bin\Debug\Model.dll.config
+D:\Faculta\An 2\MPP\CurseCS\Model\bin\Debug\Model.dll
+D:\Faculta\An 2\MPP\CurseCS\Model\bin\Debug\Model.pdb
+D:\Faculta\An 2\MPP\CurseCS\Model\bin\Debug\EntityFramework.dll
+D:\Faculta\An 2\MPP\CurseCS\Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\Faculta\An 2\MPP\CurseCS\Model\bin\Debug\System.Data.SQLite.dll
+D:\Faculta\An 2\MPP\CurseCS\Model\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Faculta\An 2\MPP\CurseCS\Model\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Faculta\An 2\MPP\CurseCS\Model\bin\Debug\EntityFramework.xml
+D:\Faculta\An 2\MPP\CurseCS\Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\Faculta\An 2\MPP\CurseCS\Model\bin\Debug\System.Data.SQLite.xml
+D:\Faculta\An 2\MPP\CurseCS\Model\obj\Debug\Model.csprojAssemblyReference.cache
+D:\Faculta\An 2\MPP\CurseCS\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+D:\Faculta\An 2\MPP\CurseCS\Model\obj\Debug\Model.csproj.CopyComplete
+D:\Faculta\An 2\MPP\CurseCS\Model\obj\Debug\Model.dll
+D:\Faculta\An 2\MPP\CurseCS\Model\obj\Debug\Model.pdb
+C:\Users\junki\OneDrive\Desktop\CurseCS\Model\bin\Debug\Model.dll.config
+C:\Users\junki\OneDrive\Desktop\CurseCS\Model\bin\Debug\Model.dll
+C:\Users\junki\OneDrive\Desktop\CurseCS\Model\bin\Debug\Model.pdb
+C:\Users\junki\OneDrive\Desktop\CurseCS\Model\bin\Debug\EntityFramework.dll
+C:\Users\junki\OneDrive\Desktop\CurseCS\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\junki\OneDrive\Desktop\CurseCS\Model\bin\Debug\System.Data.SQLite.dll
+C:\Users\junki\OneDrive\Desktop\CurseCS\Model\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\junki\OneDrive\Desktop\CurseCS\Model\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\junki\OneDrive\Desktop\CurseCS\Model\bin\Debug\EntityFramework.xml
+C:\Users\junki\OneDrive\Desktop\CurseCS\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\junki\OneDrive\Desktop\CurseCS\Model\bin\Debug\System.Data.SQLite.xml
+C:\Users\junki\OneDrive\Desktop\CurseCS\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\junki\OneDrive\Desktop\CurseCS\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\junki\OneDrive\Desktop\CurseCS\Model\obj\Debug\Model.csproj.CopyComplete
+C:\Users\junki\OneDrive\Desktop\CurseCS\Model\obj\Debug\Model.dll
+C:\Users\junki\OneDrive\Desktop\CurseCS\Model\obj\Debug\Model.pdb
